@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://suhel275:RApa5uq37m8jpPOm@projecttracker-acw84.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "kkjkfh45hfn5"
+}
